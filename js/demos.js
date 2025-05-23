@@ -170,6 +170,14 @@ define([], function () {
         "cx": 320,
         "cy": 270,
         "branchless": true
+      },
+      {
+        "id": "5041e4c",
+        "tags": [],
+        "parent": "fd0af32",
+        "cx": 320,
+        "cy": 180,
+        "branchless": false
       }
     ]
 
